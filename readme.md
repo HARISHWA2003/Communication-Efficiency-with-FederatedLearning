@@ -48,7 +48,7 @@ pip install torch torchvision tqdm
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/HARISHWA2003/federated-learning-pytorch.git
+   git clone https://github.com/HARISHWA2003/Communication-Efficiency-with-FederatedLearning.git
    cd federated-learning-pytorch
    ```
 
